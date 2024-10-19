@@ -5,7 +5,7 @@ I'm a software developer with a passion for creating efficient and scalable appl
 ## 🌍 About Me
 
 - **Location**: Indonesia
-- **Profession**: Software Developer
+- **Profession**: Software Developer at [Bank Rakyat Indonesia](https://bri.co.id/)
 - **Interests**: Open source, software architecture, energy transition, and new renewable energy technologies.
 
 ## 🚀 Skills
