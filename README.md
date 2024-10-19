@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋 I'm Hibbannn
 
-<!--
-**hibbannn/hibbannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for creating efficient and scalable applications. My main expertise lies in backend development using Golang, and I'm always eager to explore new technologies and methodologies.
 
-Here are some ideas to get you started:
+## 🌍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location**: Indonesia
+- **Profession**: Software Developer
+- **Interests**: Open source, software architecture, energy transition, and new renewable energy technologies.
+
+## 🚀 Skills
+
+- **Programming Languages**: Golang, Python, C++
+- **Technologies**: RESTful APIs, gRPC, GraphQL, PostgreSQL, Redis
+- **Frameworks**: [poolmanager](https://github.com/hibbannn/pool-manager) (My own Go package for object pooling)
+- **Cloud Services**: AWS, Google Cloud
+- **DevOps Tools**: Docker, Kubernetes
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hibbann/)
+- [GitHub](https://github.com/hibbannn)
+
+Feel free to check out my repositories and reach out if you'd like to collaborate or just say hello! 😊
